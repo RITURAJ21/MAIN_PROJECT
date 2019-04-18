@@ -30,7 +30,7 @@ body {
     top: 20%;
     margin: auto;
     width: 340px;
-    height: 445px;
+    height: 600px;
     border-radius: 0.35em;
     box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.2);
     text-align: center;
@@ -212,6 +212,7 @@ input[type=submit] {
 
 <body>
 
+
     <div id="container-login">
         <div id="title">
          <center><img src="8da771e8-98c2-482f-925d-8d1c244b0a49.png" alt="HTML5 Icon" style="width:300px;height:200px;"></center> 
@@ -248,8 +249,8 @@ input[type=submit] {
             <a href="#">Privacy Policy</a>
         </div>
 
-        <div class="register">
-            Don't have an account yet?
+        <div class="register"><font color="red">
+            Don't have an account yet?</font>
             <a href="Register_1.jsp"><button id="Registration zone">Register here</button></a>
         </div>
     </div>

@@ -36,13 +36,13 @@ body, html {
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
   <div class="w3-bar w3-white w3-card" id="myNavbar">
-   <img src="8da771e8-98c2-482f-925d-8d1c244b0a49.png" alt="HTML5 Icon" style="width:200px;height:150px;"> 
+    <img src="Capture2.JPG" alt="HTML5 Icon" style="width:190px;height:60px;">  
     
     
     <!-- Right-sided navbar links -->
     <div class="w3-right w3-hide-small">
       <a href="#" class="w3-bar-item w3-button"><i class="fa fa-graduation-cap"></i>Student Registration</a>
-      <a href="#" class="w3-bar-item w3-button"><i class="fa fa-user-circle-o"></i> Faculty Registration</a>
+      <a href="NewFile.jsp" class="w3-bar-item w3-button"><i class="fa fa-user-circle-o"></i> Faculty Registration</a>
       <a href="#" class="w3-bar-item w3-button"><i class="fa fa-book"></i> COURSE</a>
       <a href="Fee2.jsp" class="w3-bar-item w3-button"><i class="fa fa-inr"></i>Fee Payment</a>
       <a href="" class="w3-bar-item w3-button"><i class="	fa fa-calendar"></i>EXAM SCHEDULE </a>
@@ -169,10 +169,10 @@ body, html {
 <div class="w3-container" style="padding:128px 16px" id="team">
   <h3 class="w3-center">THE TEAM</h3>
   <p class="w3-center w3-large">The ones who created this company</p>
-  <div class="w3-row-padding w3-grayscale" style="margin-top:64px">
+  <div class="w3-row-padding " style="margin-top:64px">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="IMG_20180526_221558_305.jpg" alt="ritz" style="width:100%">
+        <img src="IMG_20180526_221558_305.jpg" alt="ritz" style="width:100%" height="450" width="300">
         <div class="w3-container">
           <h3>Rituraj Chakraborty</h3>
           <p class="w3-opacity">Software Engineer</p>
@@ -183,33 +183,33 @@ body, html {
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="manish...._111.jpg" alt="kumar" style="width:100%">
+        <img src="manish...._111.jpg" alt="kumar" style="width:100%" height="450" width="300">
         <div class="w3-container">
           <h3>Manish Kumar</h3>
           <p class="w3-opacity">Software Engineer</p>
-          <p>A core enthusiast in the field of Software Engineering and data enthusiast</p>
+          <p>A core enthusiast in the field of Software Engineering and data enthusiast.</p>
           <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
         </div>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="raja.jpg" alt="satya" style="width:100%">
+        <img src="raja.jpg" alt="satya" style="width:100%" height="450" width="300">
         <div class="w3-container">
           <h3>Rajajee Satyajeet Kumar</h3>
           <p class="w3-opacity">Backend Developer</p>
-          <p>Machine learning and core software development fellow.</p>
+          <p>Machine learning and core software development fellow as well as java freak.</p>
           <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
         </div>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="sonal.jpg" alt="roy" style="width:100%">
+        <img src="sonal.jpg" alt="roy" style="width:100%" height="450" width="300">
         <div class="w3-container">
           <h3>Sonal Roy</h3>
           <p class="w3-opacity">Developer</p>
-          <p>Software product ethics and technical handling expert</p>
+          <p>Software product ethics and technical handling expert, follows ethics in the field of SDLC.</p>
           <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
         </div>
       </div>

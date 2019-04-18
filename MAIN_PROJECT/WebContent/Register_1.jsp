@@ -41,7 +41,7 @@ body {
     top: 20%;
     margin: auto;
     width: 300px;
-    height: 650px;
+    height: 800px;
     border-radius: 0.35em;
     box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.2);
     text-align: center;
@@ -290,11 +290,12 @@ input[type=submit] {
             <a href="#">Privacy Policy</a>
         </div>
 
-        <div class="register">
-            Do you already have an account?
+        <div class="register"><font color="red">
+            Do you already have an account?</font>
             <a href="Register_3.jsp">Log In here</a>
         </div>
     </div>
+    
 </body>
 
 </html>
